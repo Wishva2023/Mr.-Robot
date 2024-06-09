@@ -1,48 +1,75 @@
- 
+<div align="center">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=KAVIYA+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
-<h1 align="center">𝙂𝙊𝘿𝙁𝘼𝙏𝙃𝙀𝙍 𝙈𝘿<br></h1>
+  
+<div align="center">
+</p
+
+<hr>
+
+<hr>
+
 <p align="center">
-<img src="https://bit.ly/4efM92T" />
-</p>
+<a href="https://github.com/VajiraTech">
+    <img src="https://telegra.ph/file/5ab270230536b69e1b2eb.jpg"  width="700px">
+</a>
+<hr>
 
-<p align="center">
-Mr.Bot  Multi Device is a automated whatsapp bot created by <a href="https://github.com/BotDevilLozan" target="_blank">FENIX</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
-
-<p align="center">
-<a href="https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
-
-------
-
-<p align='center'>
-    </p>
-
--------
-
-## ```Connect With Me```
-<p align="center">
-<a href="https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq" /><br>
-<a href="https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w" /><br>
-<a href="https://t.me/fenix_programmer"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://t.me/whatsapp_hacks_tool"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://https://github.com/BotDevilLozan/Godfather"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/Fenixid-server/Mr.-Robot/fork)
-
-## `Generate Pair Code For Session`
-[![master Fenix]([https://img.shields.io/badge/Xeon-Pair%20Code%20Generator-Pink?labelColor=Green&style=plastic&logo=Heroku&logoColor=White](https://firebasestorage.googleapis.com/v0/b/photo-slider-d36e0.appspot.com/o/storage%2F1001823951.jpg?alt=media&token=331e1518-c5f5-4aa3-afbf-92848c7af5d9))](https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX-6#main.sh)
-
-## ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<hr>
 
 
+<b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
+
+## CONTACT OWNER
+
+[![kaviya](https://telegra.ph/file/5ab270230536b69e1b2eb.jpg)](https://wa.me/94728103228)
+
+## JOIN SUPPORT GROUP
+
+[![kaviya](https://telegra.ph/file/5ab270230536b69e1b2eb.jpg)](https://chat.whatsapp.com/Kd73FgCrLvd2PnsaEFEueJ)
+
+#
+
+</details>
+
+***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+
+
+<hr>
+
+<hr>
+
+
+## DEPLOY BY SESSION ID or creds.json (Qr code)
+
+
+<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+
+
+<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+
+<hr>
+
+<hr>
+
+## DEPLOYMENT METHODS
+
+[CLICK TO SELECT DEPLOY PLATFORM](https://kaviyaatech.github.io/Kaviya-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+
+<hr>
+
+<hr>
+
+
+
+## HOW TO DEPLOY 🧚 KAVIYA- ＭＤ 🧚
+
+</div>
+
+1) 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
+2) 𝚂𝙲𝙰𝙽 𝚃𝙷𝙴 𝚀𝚁 𝚃𝙷𝙴𝙽 𝚆𝙸𝙻𝙻 𝙲𝙾𝙼𝙴 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝚉𝙸𝙿 𝙵𝙸𝙻𝙴 𝙴𝚇𝚃𝚁𝙰𝙲𝚃 𝙸𝚃 𝙰𝙽𝙳 𝚄𝙿𝙻𝙾𝙰𝙳 𝚃𝙷𝙴 𝙲𝚁𝙴𝙳𝚂.𝙹𝚂𝙾𝙽 𝙵𝙸𝙻𝙴 𝙸𝙽𝚃𝙾 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙵𝙾𝙻𝙳𝙴𝚁.
+3) 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙽𝙴𝚆𝚂 𝙷𝙴𝚁𝙾𝙺𝚄 𝙰𝙿𝙿.
+4) 𝙰𝙽𝙳 𝚂𝙴𝙻𝙴𝙲𝚃 𝙵𝙾𝚁𝙺 𝚁𝙴𝙿𝙸 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
+5) 𝙿𝚄𝚃 𝙳𝚈𝙽𝙾 𝚃𝙾 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝙰𝙽𝙳 𝙿𝚄𝚃 𝙸𝚃 2𝚡.
+6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚀𝚄𝙴𝙴𝙽 𝙸𝚉𝚄𝙼𝙸 𝙼𝙳 𝙱𝙾𝚃.
