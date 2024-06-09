@@ -33,7 +33,7 @@
 
 </details>
 
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/VajiraTech/KAVIYA-MD-fork)***
 
 
 <hr>
@@ -44,10 +44,10 @@
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
 
-<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://telegra.ph/file/94ce0cc5fdf78aa950ab7.jpg" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
-<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://telegra.ph/file/94ce0cc5fdf78aa950ab7.jpg" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 <hr>
 
