@@ -1,6 +1,6 @@
  
 
-<h1 align="center">𝙂𝙊𝘿𝙁𝘼𝙏𝙃𝙀𝙍 𝙈𝘿<br></h1>
+<h1 align="center">Shenu BOT<br></h1>
 <p align="center">
 <img src="https://bit.ly/4efM92T" />
 </p>
@@ -10,7 +10,7 @@ Mr.Bot  Multi Device is a automated whatsapp bot created by <a href="https://git
 </p>
 
 <p align="center">
-<a href="https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://wa.me/+94724245543?text=𝙷𝙸_𝙻𝚊𝚜𝚜𝚊𝚗𝚊_𝚕𝚊𝚖𝚊𝚢𝚘_🥺💗✨"><img title="Size" src="https://files.fm/u/a7tvm46tzf"></a>
 </p>
 
 ------
@@ -22,7 +22,7 @@ Mr.Bot  Multi Device is a automated whatsapp bot created by <a href="https://git
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq" /><br>
+<a href="(https://wa.me/+94724245543?text=𝙷𝙸_𝙻𝚊𝚜𝚜𝚊𝚗𝚊_𝚕𝚊𝚖𝚊𝚢𝚘_🥺💗✨)"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq" /><br>
 <a href="https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w" /><br>
 <a href="https://t.me/fenix_programmer"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://t.me/whatsapp_hacks_tool"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
