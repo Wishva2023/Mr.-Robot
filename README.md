@@ -2,7 +2,7 @@
 
 <h1 align="center">Shenu BOT<br></h1>
 <p align="center">
-<img src="https://bit.ly/4efM92T" />
+<img src="https://telegra.ph/file/2961329c380d978e01633.jpg" />
 </p>
 
 <p align="center">
